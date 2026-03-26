@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shantanu Das</h1>
+<h3 align="center">💻 CSE Student | Learning Web Development</h3>
 
-<!--
-**shantanudas20000-ship-it/shantanudas20000-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🙋‍♂️ About Me:
+- 🎓 1st Year CSE Student  
+- 💻 I know **C, HTML, CSS**  
+- 🚀 Currently learning **JavaScript**  
+- 📍 From India  
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+<a href="PASTE_YOUR_LINKEDIN_LINK_HERE">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+
+<a href="PASTE_YOUR_INSTAGRAM_LINK_HERE">
+<img src="https://img.icons8.com/color/48/instagram-new.png"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PASTE_YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=PASTE_YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+### 👀 Profile Views:
+![Visitor Count](https://komarev.com/ghpvc/?username=PASTE_YOUR_GITHUB_USERNAME&color=blue)
