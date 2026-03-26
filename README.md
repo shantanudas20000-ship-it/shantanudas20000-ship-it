@@ -15,11 +15,11 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="PASTE_YOUR_LINKEDIN_LINK_HERE">
+<a href="www.linkedin.com/in/shantanu-das-23a7583ba">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-<a href="PASTE_YOUR_INSTAGRAM_LINK_HERE">
+<a href="https://www.instagram.com/monereditz/">
 <img src="https://img.icons8.com/color/48/instagram-new.png"/>
 </a>
 </p>
