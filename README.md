@@ -36,12 +36,3 @@
 
 ---
 
----
-
-### 🔥 Streak Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=PASTE_YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-### 👀 Profile Views:
-![Visitor Count](https://komarev.com/ghpvc/?username=PASTE_YOUR_GITHUB_USERNAME&color=blue)
