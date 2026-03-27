@@ -36,9 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PASTE_YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 🔥 Streak Stats:
