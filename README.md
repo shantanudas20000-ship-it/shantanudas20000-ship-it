@@ -1,38 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shantanu Das</h1>
-<h3 align="center">💻 CSE Student | Learning Web Development</h3>
+Hi 👋, I'm Shantanu Das
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+💻 CSE Student | Programmer | Web Development Learner
+
+I'm a Computer Science student passionate about programming, web development, problem solving, and building practical projects.
+
+🚀 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Currently improving my programming skills
+- 🌐 Learning Web Development
+- 🧠 Exploring Data Structures & Algorithms
+- 🛠️ Building projects to improve my practical skills
+- 🚀 Interested in Hackathons and Tech Projects
+
+🧑‍💻 Skills & Technologies
+
+Programming
+
+- C
+- C++
+- Python
+
+Web Development
+
+- HTML
+- CSS
+- JavaScript
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+
+📚 Currently Learning
+
+C/C++ → Data Structures & Algorithms → Python → Web Development
+
+🔥 Featured Projects
+
+🚧 Projects coming soon...
+
+I'm currently working on projects that demonstrate my programming, web development, and problem-solving skills.
+
+🎯 2026 Goals
+
+- ✅ Strengthen C/C++ fundamentals
+- 🔄 Learn Data Structures & Algorithms
+- 🔄 Improve JavaScript
+- 🔄 Build real-world web projects
+- 🚀 Participate in hackathons
+- 🌟 Build a strong GitHub portfolio
+
+🤝 Connect With Me
+
+- 💼 LinkedIn
+- 📸 Instagram
+- 🐙 GitHub
 
 ---
 
-### 🙋‍♂️ About Me:
-- 🎓 1st Year CSE Student  
-- 💻 I know **C, HTML, CSS**  
-- 🚀 Currently learning **JavaScript**  
-- 📍 From India  
+⭐ Thanks for visiting my profile!
 
----
-
-### 🔗 Connect with me:
-<p align="left">
-<a href="www.linkedin.com/in/shantanu-das-23a7583ba">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="https://www.instagram.com/monereditz/">
-<img src="https://img.icons8.com/color/48/instagram-new.png"/>
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p>
-<img src="https://img.icons8.com/color/48/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/html-5.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-</p>
-
----
-
+Keep Learning • Keep Building • Keep Growing 🚀
