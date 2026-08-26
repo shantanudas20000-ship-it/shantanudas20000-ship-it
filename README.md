@@ -45,23 +45,21 @@ real-world projects.
 
 ## 🚀 Featured Projects
 
-### 🛍️ ShantanuShop
+### 🌐 Personal Portfolio
+My personal portfolio website showcasing my skills, education, certificates, and projects.
 
-A modern frontend shopping website built using HTML, CSS,
-and JavaScript.
+🔗 **[View Portfolio](https://shantanudas20000-ship-it.github.io/Portfolio/)**
 
-**Features:**
-- 🔍 Product Search
-- 🛒 Functional Shopping Cart
-- ➕ Add to Cart
-- 🗑️ Remove from Cart
-- 💰 Automatic Total Calculation
-- 📱 Responsive Design
-- ✨ Modern UI & Animations
+### 🛒 ShantanuShop
+A modern shopping website built with HTML, CSS and JavaScript.
 
-🌐 **[Live Demo](https://shantanudas20000-ship-it.github.io/Shopping-website/)**
+🔗 **[Live Demo](https://shantanudas20000-ship-it.github.io/Shopping-website/)**
+🔗 **[Source Code](https://github.com/shantanudas20000-ship-it/Shopping-website)**
 
-📂 **[View Repository](https://github.com/shantanudas20000-ship-it/Shopping-website)**
+### 💻 C Programming
+A collection of C programming programs covering basics, arrays, functions and loops.
+
+🔗 **[View Repository](https://github.com/shantanudas20000-ship-it/c-programming)**
 
 ---
 
