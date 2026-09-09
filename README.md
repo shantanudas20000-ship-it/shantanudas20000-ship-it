@@ -1,35 +1,61 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=180&section=header&text=Shantanu%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+Software+Developer;C%2FC%2B%2B+%7C+DSA+Learner;Full-Stack+Web+Development;AI%2FML+Explorer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG"/><br/><img src="https://img.shields.io/badge/CSE-Student-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-Learning-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Learner-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-Development-8A2BE2?style=for-the-badge"/><br/><br/>
+<!-- ======================= HEADER ======================= --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=180&section=header&text=Shantanu%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=CSE+Student+%7C+Aspiring+Software+Developer;C+%7C+C%2B%2B+%7C+Python+Learner;HTML+%7C+CSS+Completed;DSA+Learner;Web+Development+Enthusiast;AI%2FML+Explorer;Building+Projects+and+Learning+Every+Day"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/CSE%20Student-6A0DAD?style=for-the-badge&logo=computer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20%7C%20C%2B%2B%20%7C%20Python-Learning-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%20%7C%20CSS-Completed-8A2BE2?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Learner-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p><p align="center">
+  <a href="https://github.com/shantanudas20000-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shantanudas20000">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shantanudas200000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shantanudas20000-ship-it&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>---
 
-<a href="https://github.com/shantanudas20000-ship-it">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a><a href="https://www.linkedin.com/in/shantanudas20000">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:shantanudas20000@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><img src="https://komarev.com/ghpvc/?username=shantanudas20000-ship-it&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/></div>---
+👨‍💻 About Me
 
-👋 About Me
+Hi! I'm Shantanu Das, a 2nd-year B.Tech Computer Science & Engineering student.
 
-Hi! I'm Shantanu Das, a B.Tech Computer Science & Engineering student passionate about programming, web development, problem solving and building real-world projects.
+I'm currently focused on strengthening my programming fundamentals, improving problem-solving skills, learning Data Structures & Algorithms, and building practical projects.
 
-I'm currently strengthening my programming fundamentals, learning Data Structures & Algorithms, exploring Python, and building practical web applications.
+My current learning journey is mainly focused on C, C++, Python, DSA, and Web Development.
 
-🚀 What I'm Working On
+name: Shantanu Das
+education: B.Tech CSE
+year: 2nd Year
+location: India
 
-- 💻 C / C++
-- 🧠 Data Structures & Algorithms
-- 🐍 Python
-- 🌐 Web Development
-- 🤖 Exploring AI/ML
-- 🏥 Building healthcare-focused projects
-- 🏆 Hackathons & developer events
+learning:
+  - C
+  - C++
+  - Python
+  - Data Structures & Algorithms
 
-🎯 Open To
+frontend:
+  completed:
+    - HTML
+    - CSS
 
-Hackathons • Collaboration • Open Source • Student Developer Opportunities
+  next:
+    - JavaScript
+
+interests:
+  - Programming
+  - Problem Solving
+  - Data Structures & Algorithms
+  - Web Development
+  - AI/ML
+  - Real-World Projects
+  - Hackathons
 
 ---
 
@@ -38,70 +64,128 @@ Hackathons • Collaboration • Open Source • Student Developer Opportunities
 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
-</p>🌐 Web Development
+  <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+</p>Currently Learning
+
+- 🔄 C
+- 🔄 C++
+- 🔄 Python
+
+---
+
+🌐 Frontend Development
+
+Completed
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>⚙️ Backend & Database
+  <img src="https://skillicons.dev/icons?i=html,css"/>
+</p>- ✅ HTML
+- ✅ CSS
+
+Next to Learn
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>🔧 Tools
+  <img src="https://skillicons.dev/icons?i=js"/>
+</p>- ⏳ JavaScript
+
+---
+
+🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>---
 
-🤖 AI / ML & Development Focus
+🧠 Current Learning Focus
 
-Area| Level| Focus
-C / C++| 🟢 Practicing| Programming fundamentals & OOP
-Python| 🟡 Learning| Programming & AI foundations
-DSA| 🟡 Learning| Algorithms & problem solving
-Web Development| 🟡 Developing| Frontend & backend
-MongoDB| 🟡 Developing| Database integration
-AI / ML| 🟡 Exploring| Generative AI & practical applications
+Area| Status
+C Programming| 🔄 Learning
+C++| 🔄 Learning
+Python| 🔄 Learning
+HTML| ✅ Completed
+CSS| ✅ Completed
+JavaScript| ⏳ Next
+DSA| 📚 Learning
+Web Development| 🚀 Building
+AI/ML| 🔍 Exploring
 
 ---
 
 🚀 Featured Projects
 
+🏥 Healora — AI Healthcare Platform
+
+«A healthcare discovery and appointment booking platform with an AI-powered chatbot.»
+
+✨ Features
+
+- 🏥 Hospital discovery
+- 👨‍⚕️ Doctor discovery
+- 📅 Appointment booking
+- 🔐 Login & Registration
+- 🚨 Emergency care section
+- 🗺️ Nearby hospital concept
+- 🤖 AI chatbot
+- 🧠 Gemini API integration
+- 📊 Healthcare-focused user experience
+
+🧰 Technologies
+
+"HTML" "CSS" "JavaScript" "Node.js" "Express.js" "MongoDB" "Gemini API"
+
 <details>
-<summary><b>🏥 Healora AI — AI Healthcare Project</b></summary><br/>AI-powered healthcare project focused on healthcare discovery and an AI chatbot experience.
+<summary><b>🔎 View Project Details</b></summary>Healora is a healthcare discovery and appointment booking platform designed to help users find hospitals and doctors and book appointments.
 
-Technologies: HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • Gemini API
-
-Focus: AI • Healthcare • Web Development • Backend • Database
+The project also explores AI integration through a chatbot powered by the Gemini API.
 
 </details>---
 
-<details>
-<summary><b>🌐 Personal Portfolio</b></summary><br/>Personal portfolio website showcasing skills, education, certificates and projects.
+🛍️ ShantanuShop — Shopping Website
 
-Technologies: HTML • CSS • JavaScript
+A frontend shopping website created to practice HTML and CSS and build a real-world style website interface.
 
-<a href="https://shantanudas20000-ship-it.github.io">
-<img src="https://img.shields.io/badge/Live%20Portfolio-6A0DAD?style=for-the-badge"/>
-</a></details>---
+🧰 Technologies
 
-<details>
-<summary><b>🛒 ShantanuShop</b></summary><br/>A modern responsive shopping website featuring product search and shopping-cart functionality.
+"HTML" "CSS"
 
-Technologies: HTML • CSS • JavaScript
+<p>
+  <a href="https://shantanudas20000-ship-it.github.io/Shopping-website/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-8A2BE2?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/shantanudas20000-ship-it/Shopping-website">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>---
 
-<a href="https://shantanudas20000-ship-it.github.io">
-<img src="https://img.shields.io/badge/Live%20Demo-6A0DAD?style=for-the-badge"/>
-</a><a href="https://github.com/shantanudas20000-ship-it">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
-</a></details>---
+💻 C Programming
 
-<details>
-<summary><b>💻 C Programming Practice</b></summary><br/>Programming practice repository covering fundamentals such as arrays, loops, functions, mathematical programs, matrix operations and patterns.
+A collection of C programming practice programs created while learning programming fundamentals.
 
-Focus: C Programming • Logic Building • Problem Solving
+📚 Topics
 
-</details>---
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Arrays
+- Functions
+- Basic Problem Solving
+
+<p>
+  <a href="https://github.com/shantanudas20000-ship-it/c-programming">
+    <img src="https://img.shields.io/badge/💻%20View%20Repository-6A0DAD?style=for-the-badge&logo=github"/>
+  </a>
+</p>---
+
+🌐 Personal Portfolio
+
+My personal portfolio website showcasing my profile, skills, projects, and learning journey.
+
+<p>
+  <a href="https://shantanudas20000-ship-it.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>---
 
 📚 Learning Journey
 
@@ -109,13 +193,17 @@ C Programming
       ↓
 C++
       ↓
-Object-Oriented Programming
+Python
+      ↓
+HTML ✅
+      ↓
+CSS ✅
+      ↓
+JavaScript ⏳
       ↓
 Data Structures & Algorithms
       ↓
-Python
-      ↓
-Web Development
+Advanced Web Development
       ↓
 AI / ML
       ↓
@@ -123,70 +211,142 @@ Real-World Projects
 
 ---
 
-🏆 Goals
+🎯 Goals
 
-- 🧠 Strengthen programming fundamentals
-- 💻 Become strong in DSA
-- 🌐 Build modern web applications
+- 🧠 Build strong programming fundamentals
+- 💻 Become stronger in C and C++
+- 🐍 Improve Python skills
+- 📚 Master Data Structures & Algorithms
+- 🌐 Learn JavaScript
+- 🚀 Build modern web applications
 - 🤖 Explore AI/ML
 - 🏆 Participate in hackathons
-- 🤝 Contribute to open source
-- 🚀 Build meaningful real-world projects
-- 💼 Prepare for software development opportunities
+- 🌱 Contribute to open-source projects
+- 💼 Prepare for software development placements
 
 ---
 
-📊 GitHub Analytics
+🔥 What I'm Working On
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shantanudas20000-ship-it&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudas20000-ship-it&theme=radical&hide_border=true" height="180"/></div><br/><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudas20000-ship-it&layout=compact&theme=radical&hide_border=true"/></div>---
+- 🔨 Improving Healora
+- 🧠 Practicing Data Structures & Algorithms
+- 💻 Strengthening C/C++
+- 🐍 Learning Python
+- 🌐 Building frontend projects
+- 📚 Preparing to learn JavaScript
+- 🤖 Exploring AI/ML
+- 🏆 Participating in hackathons
+
+---
+
+📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanudas20000-ship-it&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" height="180"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanudas20000-ship-it&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF"/>
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanudas20000-ship-it&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/>
+</p>---
 
 🏆 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=shantanudas20000-ship-it&theme=radical&no-frame=true&no-bg=true&margin-w=5"/></div>---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shantanudas20000-ship-it&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</p>---
 
-📈 Contribution Activity
+📊 Contribution Activity
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanudas20000-ship-it&theme=react-dark&hide_border=true&area=true" width="95%"/></div>---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanudas20000-ship-it&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>---
 
-🎯 Current Focus
+🐍 Contribution Snake
 
-name: Shantanu Das
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shantanudas20000-ship-it/shantanudas20000-ship-it/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>---
 
-learning:
-  - Data Structures & Algorithms
-  - Python
-  - C++
-  - AI/ML Fundamentals
+📌 Current Focus
 
-building:
-  - Healora AI
-  - Full-Stack Web Projects
-  - Programming Projects
+current_focus:
 
-exploring:
-  - Generative AI
-  - Backend Development
-  - MongoDB
-  - Open Source
+  programming:
+    - C
+    - C++
+    - Python
 
-open_to:
-  - Hackathons
-  - Collaboration
-  - Open Source
-  - Student Developer Opportunities
+  problem_solving:
+    - Data Structures & Algorithms
+
+  frontend:
+    completed:
+      - HTML
+      - CSS
+
+    next:
+      - JavaScript
+
+  development:
+    - Web Development
+    - Real-World Projects
+
+  exploration:
+    - AI/ML
+    - Gemini API
+
+  goals:
+    - Strong Programming Fundamentals
+    - DSA
+    - Projects
+    - Hackathons
+    - Open Source
+    - Placement Preparation
 
 ---
 
-🌐 Connect With Me
+🌱 Learning Philosophy
 
-<div align="center"><a href="https://github.com/shantanudas20000-ship-it">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+«Learn → Practice → Build → Fail → Improve → Repeat»
+
+I believe that consistent practice and real-world projects are the best way to improve as a developer.
+
+Every project helps me understand concepts better, solve problems, and grow step by step.
+
+---
+
+💼 Career Goals
+
+I'm preparing myself for future software development and placement opportunities by focusing on:
+
+- Programming Fundamentals
+- C/C++
+- Python
+- Data Structures & Algorithms
+- Web Development
+- Problem Solving
+- Projects
+- Hackathons
+- AI/ML Exploration
+
+---
+
+🔗 Connect With Me
+
+<p align="center"><a href="https://github.com/shantanudas20000-ship-it">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/shantanudas20000">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:shantanudas200000@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div>---
+</a><a href="https://shantanudas20000-ship-it.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a></p>---
 
-<div align="center">💜 Learning • Building • Improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:4B0082&height=120&section=footer"/></div>
+<p align="center">
+  <b>💜 Thanks for visiting my GitHub profile!</b>
+</p><p align="center">
+  <i>Learning. Building. Improving. Every Day.</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:4B0082&height=120&section=footer"/>
+</p>
