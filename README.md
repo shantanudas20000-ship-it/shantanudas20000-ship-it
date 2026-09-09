@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/shantanudas20000">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:shantanudas200000@gmail.com">
+</a><a href="mailto:shantanudas20000@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><img src="https://komarev.com/ghpvc/?username=shantanudas20000-ship-it&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/></div>---
 
